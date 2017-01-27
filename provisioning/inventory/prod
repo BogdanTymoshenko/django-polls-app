@@ -1,2 +1,2 @@
 [prod]
-prod ansible_host=46.101.241.44 ansible_ssh_user=root
+prod ansible_host=46.101.238.134 ansible_ssh_user=root
